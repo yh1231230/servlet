@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="j3ee">
+    <output-path>$PROJECT_DIR$/web/WEB-INF/classes</output-path>
+    <root id="root">
+      <element id="archive" name="j3ee.jar">
+        <element id="module-output" name="j3ee" />
+      </element>
+    </root>
+  </artifact>
+</component>
